@@ -1,6 +1,27 @@
-h1{text-align: center;}
-.TI{display: flex;}
-.TI2 {border:solid 1px #CCC;padding: 5px;
-    border-radius: 5px;background-color: #eee;
+
+p{font-size: 20px;font-weight:bold;
 
 }
+
+
+
+#p1{font-weight:bold;font-size:20px;
+
+
+}
+.minhaclasse{color:red;
+    
+
+
+}
+
+img{
+    background-size:150px 75px;
+    width: 90%;
+    padding: 70px;
+    margin:5px 5px 5px 5;
+
+
+}
+
+
